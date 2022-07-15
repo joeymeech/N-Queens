@@ -2,8 +2,6 @@ import java.util.Scanner;
 
 /*
 Joseph Milici
-Final Project: The n queens puzzle
-Due: 3/13/2022
 This program uses the board class to constuct a chess board of user specified length.
 Then uses two different methods, hill climbing and a backtracking search to solve the puzzle.
 Each step throughout the program is documented.
